@@ -1,0 +1,26 @@
+.shootingDiv {
+    margin-top: 50px;
+}
+
+.shootingMapDiv {
+    display: flex;
+    width: 1000px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.shootingMapDivLeft {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+.dropdowns {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.legend circle:hover, .legend line:hover {
+    cursor: pointer;
+}

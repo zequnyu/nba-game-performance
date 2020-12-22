@@ -1,0 +1,30 @@
+{
+  "name": "nba_game_performance",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bulma": "^0.9.1",
+    "cors": "^2.8.5",
+    "d3": "^6.2.0",
+    "mapbox-gl": "^1.13.0",
+    "moment": "^2.29.1",
+    "mongodb": "^3.6.3",
+    "next": "10.0.1",
+    "react": "17.0.1",
+    "react-datepicker": "^3.3.0",
+    "react-dom": "17.0.1",
+    "swr": "^0.3.8",
+    "topojson-client": "^3.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-react": "^7.21.5"
+  }
+}

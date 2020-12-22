@@ -1,0 +1,32 @@
+.pieChartDiv {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    position: relative;
+    top: -120px;
+    margin-bottom: -150px;
+}
+
+.pieChartDivLeft {
+    position: relative;
+    top: 50px;
+    z-index: 2;
+}
+
+.dropdowns {
+    display: flex;
+    justify-content: space-around;
+}
+
+.svgDiv {
+    width: 50%;
+    height: 100%;
+}
+
+.svg {
+    position: relative;
+    top: 18%;
+    left: -40%;
+}

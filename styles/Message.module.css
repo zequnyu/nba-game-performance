@@ -1,0 +1,12 @@
+.message {
+    margin: 30px auto;
+    width: 600px;
+}
+
+.messageHeader {
+    background-color: rgb(50, 29, 52);
+}
+
+.deleteButton {
+    background-color: rgb(50, 29, 52);
+}

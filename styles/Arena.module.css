@@ -1,0 +1,20 @@
+.arena {
+    width: 100%;
+    width: 300px;
+    height: 450px;
+    border-radius: 25px;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.arenaImg {
+    height: 150px;
+    border-radius: 25px;
+}

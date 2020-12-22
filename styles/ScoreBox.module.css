@@ -1,0 +1,13 @@
+.scoreBox {
+    margin: 50px auto;
+    display: flex;
+    align-items: center; 
+}
+
+.tricode {
+    margin-bottom: 10px;
+}
+
+.score {
+    margin-top: 10px;
+}

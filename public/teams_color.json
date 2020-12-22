@@ -1,0 +1,424 @@
+{
+    "colorInfo": [
+        {
+            "name": "Miami Heat",
+            "TeamId": "1610612748",
+            "primaryColor": [
+                152,
+                0,
+                46
+            ],
+            "secondaryColor": [
+                249,
+                160,
+                27
+            ]
+        },
+        {
+            "name": "Dallas Mavericks",
+            "TeamId": "1610612742",
+            "primaryColor": [
+                0,
+                83,
+                140
+            ],
+            "secondaryColor": [
+                184,
+                196,
+                202
+            ]
+        },
+        {
+            "name": "Orlando Magic",
+            "TeamId": "1610612753",
+            "primaryColor": [
+                0,
+                87,
+                184
+            ],
+            "secondaryColor": [
+                194,
+                204,
+                210
+            ]
+        },
+        {
+            "name": "San Antonio Spurs",
+            "TeamId": "1610612759",
+            "primaryColor": [
+                0,
+                0,
+                0
+            ],
+            "secondaryColor": [
+                196,
+                206,
+                212
+            ]
+        },
+        {
+            "name": "Denver Nuggets",
+            "TeamId": "1610612743",
+            "primaryColor": [
+                0,
+                40,
+                94
+            ],
+            "secondaryColor": [
+                255,
+                199,
+                44
+            ]
+        },
+        {
+            "name": "Indiana Pacers",
+            "TeamId": "1610612754",
+            "primaryColor": [
+                0,
+                45,
+                98
+            ],
+            "secondaryColor": [
+                253,
+                187,
+                48
+            ]
+        },
+        {
+            "name": "Brooklyn Nets",
+            "TeamId": "1610612751",
+            "primaryColor": [
+                0,
+                0,
+                0
+            ],
+            "secondaryColor": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "name": "Washington Wizards",
+            "TeamId": "1610612764",
+            "primaryColor": [
+                0,
+                43,
+                92
+            ],
+            "secondaryColor": [
+                227,
+                24,
+                55
+            ]
+        },
+        {
+            "name": "Golden State Warriors",
+            "TeamId": "1610612744",
+            "primaryColor": [
+                0,
+                107,
+                182
+            ],
+            "secondaryColor": [
+                253,
+                185,
+                39
+            ]
+        },
+        {
+            "name": "Oklahoma City Thunder",
+            "TeamId": "1610612760",
+            "primaryColor": [
+                0,
+                122,
+                193
+            ],
+            "secondaryColor": [
+                239,
+                59,
+                36
+            ]
+        },
+        {
+            "name": "Memphis Grizzlies",
+            "TeamId": "1610612763",
+            "primaryColor": [
+                97,
+                137,
+                185
+            ],
+            "secondaryColor": [
+                0,
+                40,
+                94
+            ]
+        },
+        {
+            "name": "Milwaukee Bucks",
+            "TeamId": "1610612749",
+            "primaryColor": [
+                0,
+                71,
+                27
+            ],
+            "secondaryColor": [
+                238,
+                225,
+                198
+            ]
+        },
+        {
+            "name": "Sacramento Kings",
+            "TeamId": "1610612758",
+            "primaryColor": [
+                90,
+                45,
+                129
+            ],
+            "secondaryColor": [
+                99,
+                114,
+                122
+            ]
+        },
+        {
+            "name": "Detroit Pistons",
+            "TeamId": "1610612765",
+            "primaryColor": [
+                237,
+                23,
+                76
+            ],
+            "secondaryColor": [
+                0,
+                107,
+                182
+            ]
+        },
+        {
+            "name": "New York Knicks",
+            "TeamId": "1610612752",
+            "primaryColor": [
+                0,
+                107,
+                182
+            ],
+            "secondaryColor": [
+                245,
+                132,
+                38
+            ]
+        },
+        {
+            "name": "Portland Trail Blazers",
+            "TeamId": "1610612757",
+            "primaryColor": [
+                224,
+                58,
+                62
+            ],
+            "secondaryColor": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "Phoenix Suns",
+            "TeamId": "1610612756",
+            "primaryColor": [
+                29,
+                17,
+                96
+            ],
+            "secondaryColor": [
+                229,
+                96,
+                32
+            ]
+        },
+        {
+            "name": "Cleveland Cavaliers",
+            "TeamId": "1610612739",
+            "primaryColor": [
+                111,
+                38,
+                61
+            ],
+            "secondaryColor": [
+                255,
+                184,
+                28
+            ]
+        },
+        {
+            "name": "Toronto Raptors",
+            "TeamId": "1610612761",
+            "primaryColor": [
+                206,
+                17,
+                65
+            ],
+            "secondaryColor": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "New Orleans Pelicans",
+            "TeamId": "1610612740",
+            "primaryColor": [
+                0,
+                43,
+                92
+            ],
+            "secondaryColor": [
+                227,
+                24,
+                55
+            ]
+        },
+        {
+            "name": "Charlotte Hornets",
+            "TeamId": "1610612766",
+            "primaryColor": [
+                29,
+                17,
+                96
+            ],
+            "secondaryColor": [
+                0,
+                120,
+                140
+            ]
+        },
+        {
+            "name": "Los Angeles Clippers",
+            "TeamId": "1610612746",
+            "primaryColor": [
+                237,
+                23,
+                76
+            ],
+            "secondaryColor": [
+                0,
+                107,
+                182
+            ]
+        },
+        {
+            "name": "Los Angeles Lakers",
+            "TeamId": "1610612747",
+            "primaryColor": [
+                85,
+                37,
+                131
+            ],
+            "secondaryColor": [
+                255,
+                199,
+                44
+            ]
+        },
+        {
+            "name": "Atlanta Hawks",
+            "TeamId": "1610612737",
+            "primaryColor": [
+                224,
+                58,
+                62
+            ],
+            "secondaryColor": [
+                193,
+                211,
+                47
+            ]
+        },
+        {
+            "name": "Minnesota Timberwolves",
+            "TeamId": "1610612750",
+            "primaryColor": [
+                12,
+                35,
+                64
+            ],
+            "secondaryColor": [
+                35,
+                97,
+                146
+            ]
+        },
+        {
+            "name": "Boston Celtics",
+            "TeamId": "1610612738",
+            "primaryColor": [
+                0,
+                122,
+                51
+            ],
+            "secondaryColor": [
+                186,
+                150,
+                83
+            ]
+        },
+        {
+            "name": "Houston Rockets",
+            "TeamId": "1610612745",
+            "primaryColor": [
+                206,
+                17,
+                65
+            ],
+            "secondaryColor": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "Chicago Bulls",
+            "TeamId": "1610612741",
+            "primaryColor": [
+                206,
+                17,
+                65
+            ],
+            "secondaryColor": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "Utah Jazz",
+            "TeamId": "1610612762",
+            "primaryColor": [
+                0,
+                43,
+                92
+            ],
+            "secondaryColor": [
+                249,
+                160,
+                27
+            ]
+        },
+        {
+            "name": "Philadelphia 76ers",
+            "TeamId": "1610612755",
+            "primaryColor": [
+                0,
+                107,
+                182
+            ],
+            "secondaryColor": [
+                237,
+                23,
+                76
+            ]
+        }
+    ]
+}

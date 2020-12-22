@@ -1,0 +1,73 @@
+.container {
+    display: flex; 
+}
+
+.alert {
+    margin-top: 180px;
+    font-size: 1em;
+    text-align: center;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    flex-flow: column nowrap;
+    align-items: center;
+    margin-right: 50px;
+    width: 200px;
+    position: relative;
+    right: 100px;
+}
+
+.dropdownDiv {
+    width: 100%;
+    margin: 30px auto;
+}
+
+.playerBox {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+.image {
+    width: 150px;
+    font-size: 0.75em;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkbox {
+    margin-left: 600px;
+    margin-bottom: -80px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+}
+
+.label {
+    margin-right: 5px;
+}
+
+.input:hover {
+    cursor: pointer;
+}
+
+.countries {
+    fill: #ccc;
+}
+
+.country-borders {
+    fill: none;
+    stroke: white;
+    stroke-width: 0.5px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    pointer-events: none;
+}
+
+.path:hover {
+    cursor: pointer;
+}

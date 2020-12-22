@@ -1,0 +1,16 @@
+.svgDiv {
+    width: 600px;
+    background-color: white;
+    border-radius: 25px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dropdownDiv {
+    margin: 50px auto;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center; 
+}

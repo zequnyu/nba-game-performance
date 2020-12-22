@@ -1,0 +1,40 @@
+
+.dropdown {
+    margin: 50px auto 15px;
+}
+
+.commands {
+    text-align: center;
+}
+
+.commands button {
+    margin: 5px;
+}
+
+.commands button:focus {
+    border: 0 !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.divSvg {
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+.bar {    
+}
+
+.xlabel {
+    text-anchor: middle;
+    font-family: Courier;
+    font-size: 0.65em;
+}
+
+.ylabel {
+    text-anchor: middle;
+    alignment-baseline: central;
+    font-family: Courier;
+    font-size: 0.85em;
+}
